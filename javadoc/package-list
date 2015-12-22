@@ -1,0 +1,5 @@
+fr.dc.iamcore.datamodel
+fr.dc.iamcore.launcher
+fr.dc.iamcore.services.dao
+fr.dc.iamcore.services.dao.impl
+fr.dc.iamcore.test.junit
